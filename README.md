@@ -12,7 +12,7 @@ Each student works on a different file, for a different part of the website, and
 
 2. We are going to be building [this design](https://raw.githubusercontent.com/breatheco-de/exercise-collaborative-html-website/master/website/designs/thumb.jpg), and [this is how you can split with the students](https://github.com/breatheco-de/exercise-collaborative-html-website/blob/master/website/designs/guide.jpg?raw=true)
 
-3. Each contributor will have to clone the new forked repository and develop a part of the website that is coordinated with the group; each project is divided in pieces inside the **templates/** directory (located in website/templates). Once everyone has their editor open, run the project in the terminal with this command:
+
 
 ```bash
 $ npx http-server --yes -c-1
